@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,10 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# AppWikihub
+Antônio Gustavo Oliveira da Silva 01776203/Desenvolveu a tela Perfil
+Arthur Alves Patrício de Carvalho 01805701/Desenvolveu a tela Novidades
+Davi Lucas Cruz Paz 01800210/Desenvolveu a tela Perfil Biblioteca
+Peterson Tavares Bello 01794713/Desenvolveu a tela Recentes
+Ryan Rodrigues de Medeiros 01795192/Desenvolveu a tela Pesquisa
