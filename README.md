@@ -51,8 +51,8 @@ Join our community of developers creating universal apps.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 =======
 # AppWikihub
-Antônio Gustavo Oliveira da Silva 01776203/Desenvolveu a tela Perfil
-Arthur Alves Patrício de Carvalho 01805701/Desenvolveu a tela Novidades
-Davi Lucas Cruz Paz 01800210/Desenvolveu a tela Perfil Biblioteca
-Peterson Tavares Bello 01794713/Desenvolveu a tela Recentes
-Ryan Rodrigues de Medeiros 01795192/Desenvolveu a tela Pesquisa
+Antônio Gustavo Oliveira da Silva 01776203/Desenvolveu a tela Perfil/
+Arthur Alves Patrício de Carvalho 01805701/Desenvolveu a tela Novidades/
+Davi Lucas Cruz Paz 01800210/Desenvolveu a tela Perfil Biblioteca/
+Peterson Tavares Bello 01794713/Desenvolveu a tela Recentes/
+Ryan Rodrigues de Medeiros 01795192/Desenvolveu a tela Pesquisa/
